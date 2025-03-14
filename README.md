@@ -9,7 +9,6 @@ I'm Nha D Alvarado, an aspiring **Data Analyst** with a passion for turning raw 
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-122-blue)
 
 ## 🌟 Featured Projects
 - [Project 1: Inside Airbnb Analysis]([link] (https://public.tableau.com/app/profile/nha.alvarado/viz/InsideAirbnbDashboard/AirbnbSFDashboard)): Built an interactive Tableau dashboard to analyze Airbnb listing data in San Francisco. Leveraged **SQL** for data querying and **Python** for data cleaning and preprocessing. Visualized key metrics such as pricing trends, occupancy rates, and neighborhood performance to provide actionable insights for hosts and travelers.
