@@ -12,8 +12,8 @@ I'm Nha D Alvarado, an aspiring **Data Analyst** with a passion for turning raw 
 
 ## 🌟 Featured Projects
 - [Project 1: Inside Airbnb Analysis]([link] (https://public.tableau.com/app/profile/nha.alvarado/viz/InsideAirbnbDashboard/AirbnbSFDashboard)): Built an interactive Tableau dashboard to analyze Airbnb listing data in San Francisco. Leveraged **SQL** for data querying and **Python** for data cleaning and preprocessing. Visualized key metrics such as pricing trends, occupancy rates, and neighborhood performance to provide actionable insights for hosts and travelers.
-- [Project 2: Ecommerce Customers Segmentation]([link](https://public.tableau.com/app/profile/nha.alvarado/viz/EcommerceDashboard_17351594460530/CustomerDashboard)): Performed customer segmentation using clustering algorithms and visualized results with Tableau.
-- [Project 3: COVID-19 Data Dashboard]([link](https://public.tableau.com/app/profile/nha.alvarado/viz/CovidAnalysisDashboard_17376794443840/Covid)): Built an interactive dashboard using Tableau to track COVID-19 cases globally.
+- [Project 2: Ecommerce Customers Segmentation]([link] (https://public.tableau.com/app/profile/nha.alvarado/viz/EcommerceDashboard_17351594460530/CustomerDashboard)): Performed customer segmentation using clustering algorithms and visualized results with Tableau.
+- [Project 3: COVID-19 Data Dashboard]([link] (https://public.tableau.com/app/profile/nha.alvarado/viz/CovidAnalysisDashboard_17376794443840/Covid)): Built an interactive dashboard using Tableau to track COVID-19 cases globally.
 
 ## 🚀 What Drives Me
 - **Consistency**: I believe in showing up every day and making steady progress.
