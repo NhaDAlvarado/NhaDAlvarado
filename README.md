@@ -30,4 +30,7 @@ I'm Nha D Alvarado, an aspiring **Data Analyst** with a passion for turning raw 
 !![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhaDAlvarado&show_icons=true&theme=radical&hide=stars,contribs)
 ---
 
+## 👀 Profile Views 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-523-blue)
+
 **Let's connect and explore the world of data together!** 🚀
