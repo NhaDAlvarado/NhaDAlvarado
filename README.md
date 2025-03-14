@@ -26,7 +26,7 @@ I'm Nha D Alvarado, an aspiring **Data Analyst** with a passion for turning raw 
 - Portfolio: [Visualiztion Portfolio Website]([link] (https://public.tableau.com/app/profile/nha.alvarado/vizzes)) 
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhaDAlvarado&show_icons=true&theme=radical)
+!![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhaDAlvarado&show_icons=true&theme=radical&hide=stars)
 ---
 
 **Let's connect and explore the world of data together!** 🚀
